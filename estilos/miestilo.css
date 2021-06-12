@@ -20,6 +20,7 @@ h1{
   font-size: 4rem;
   margin-top: auto;
   font-family: 'Crimson Text', serif;
+  font-weight: bold;
 }
  
  ul.topnav {
@@ -38,9 +39,9 @@ h1{
     text-align: center;
     padding: 5px 5px ;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-family: 'Crimson Text', serif;
-   
+    font-weight: bold;
   }
   
   ul.topnav li a:hover:not(.active) {background-color:grey;
@@ -77,11 +78,11 @@ footer{
   
 
   }
-  .carousel-caption,.carousel-item{
+  .carousel-caption h4,.carousel-item{
       color:black;
       text-align: center;
       font-family: 'Crimson Text', serif;
-     
+     font-weight: bold;
   }
  
 
